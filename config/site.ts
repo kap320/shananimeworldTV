@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "AnimeDen",
+  name: "shananimeworldTV",
   description:
-    "AnimeDen is a free and ad-free anime streaming app.",
+    "shananimeworldTV is a free and ad-free anime streaming app.",
   mainNav: [
     {
       title: "Home",
@@ -19,7 +19,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/sinnedpenguin/animeden",
-    discord: "https://discord.gg/Gcch3jSrYt"
+    github: "https://github.com/shanachanpanel",
+    discord: "https://discord.gg/shanachan"
   },
 }
